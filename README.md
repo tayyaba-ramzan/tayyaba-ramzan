@@ -1,4 +1,4 @@
-![logo](WhatsApp Image 2024-02-26 at 1.34.55 PM.jpeg)
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
