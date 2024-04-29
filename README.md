@@ -1,4 +1,4 @@
-![image](https://github.com/tayyaba-ramzan/tayyaba-ramzan/assets/160269220/9df2b483-af7e-4e9b-954a-a16ef7638d6b)![logo](https://github.com/tayyaba-ramzan/tayyaba-ramzan/blob/main/WhatsApp%20Image%202024-02-26%20at%201.34.55%20PM.jpeg)
+![logo](https://github.com/tayyaba-ramzan/tayyaba-ramzan/blob/main/WhatsApp%20Image%202024-02-26%20at%201.34.55%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Tayyaba Ramzan</h1>
 <h3 align="center">Student of Governer IT Initiative Course</h3>
 
