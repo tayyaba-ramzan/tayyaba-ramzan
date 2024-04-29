@@ -8,8 +8,7 @@
 <body>
     <h1 align="center">Hi 👋, I'm Tayyaba Ramzan</h1>
 <h3 align="center">Student of Governer IT Initiative Course</h3>
-<img align="![image](https://github.com/tayyaba-ramzan/tayyaba-ramzan/assets/160269220/80a2128d-7f2e-4f48-80c9-91534ae2fcb1)
-" alt="coding" width="400">
+<img align="!![image](https://github.com/tayyaba-ramzan/tayyaba-ramzan/assets/160269220/6731ca36-376e-421d-93d3-cbd2ba3f43c3)" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=Profile%20views&color=0e75b6&style=flat" alt="tayyaba-ramzan" /> </p>
     
 <p align="left"> <a href="https://twitter.com/@tayy_ramzan" target="blank"><img src="https://img.shields.io/twitter/follow/@tayy_ramzan?logo=twitter&style=for-the-badge" alt="@tayy_ramzan" /></a> </p>
