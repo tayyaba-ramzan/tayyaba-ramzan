@@ -8,13 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=Profile%20views&color=0e75b6&style=" alt="tayyaba-ramzan" /> </p>
 
 
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/tayyabaRamzan/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
-    </a> 
-  </p>
-  
-
 <p align="left"> <a href="https://twitter.com/@tayy_ramzan" target="blank"><img src="https://img.shields.io/twitter/follow/@tayy_ramzan?logo=twitter&style=for-the-badge" alt="@tayy_ramzan" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript WebDevelopment.**
