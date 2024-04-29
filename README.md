@@ -7,9 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=Profile%20views&color=0e75b6&style=" alt="tayyaba-ramzan" /> </p>
 
-<a href="https://linkedin.com/in/tayyabaramzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyabaramzan" height="30" width="40" /></a>
 
-<p align="left"> <a href="https://linkedin.com/in/tayyabaramzan" target="blank"><img src="https://img.shields.io/linkedin/follow/tayyabaRamzan?https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyabaRamzan" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/tayyabaramzan" target="blank"><img src="https://img.shields.io/linkedin/follow/@tayy_ramzan?logo=twitter&style=for-the-badge" alt="@tayy_ramzan" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript WebDevelopment.**
 
