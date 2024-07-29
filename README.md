@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tayyabaRamzan/](https://www.linkedin.com/in/tayyabaRamzan/)
 
-- 📫 How to reach me **tayyabaramzan.pak@gmail.com**
+- 📫 How to reach me **tayyabaramzan.it@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
