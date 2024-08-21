@@ -14,7 +14,7 @@
   </p>
   
 
-- 🌱 I’m currently learning **JavaScript, TypeScript WebDevelopment.**
+- 👉  I’m currently learning **JavaScript, TypeScript WebDevelopment.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tayyabaRamzan/](https://www.linkedin.com/in/tayyabaRamzan/)
 
