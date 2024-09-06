@@ -14,13 +14,13 @@
   </p>
   
 
-- 👉  I’m currently learning **TypeScript, WebDevelopment, Next.Js & Tailwind CSS.**
+- 👉  𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 **𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵, 𝘞𝘦𝘣𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘕𝘦𝘹𝘵.𝘑𝘴 & 𝘛𝘢𝘪𝘭𝘸𝘪𝘯𝘥 𝘊𝘚𝘚.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tayyabaRamzan/](https://www.linkedin.com/in/tayyabaRamzan/)
+- 👨‍💻 𝘈𝘭𝘭 𝘰𝘧 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘳𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 𝘢𝘵  [https://www.linkedin.com/in/tayyabaRamzan/](https://www.linkedin.com/in/tayyabaRamzan/)
 
-- 📫 How to reach me **tayyabaramzan.it@gmail.com**
+- 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 **tayyabaramzan.it@gmail.com**
 
-- ⚡ Fun fact **My coding style has a bit of fun in it, but the output is always professional.**
+- ⚡ 𝘍𝘶𝘯 𝘧𝘢𝘤𝘵 **𝘔𝘺 𝘤𝘰𝘥𝘪𝘯𝘨 𝘴𝘵𝘺𝘭𝘦 𝘩𝘢𝘴 𝘢 𝘣𝘪𝘵 𝘰𝘧 𝘧𝘶𝘯 𝘪𝘯 𝘪𝘵, 𝘣𝘶𝘵 𝘵𝘩𝘦 𝘰𝘶𝘵𝘱𝘶𝘵 𝘪𝘴 𝘢𝘭𝘸𝘢𝘺𝘴 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
