@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **tayyabaramzan.it@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **My coding style has a bit of fun in it, but the output is always professional.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
