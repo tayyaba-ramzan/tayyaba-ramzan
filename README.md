@@ -7,7 +7,7 @@
     alt="A screenshot of coding" 
     width="400" 
     height="auto" 
-    src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwnch_bytTsbJ_NCen-RNQSvLn9xC6Z0pRg&s" 
   />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=Profile%20views&color=0e75b6&style=" alt="tayyaba-ramzan" /> </p>
