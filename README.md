@@ -3,7 +3,12 @@
 <h1 align="center">𝘏𝘪 👋, 𝘐'𝘮 𝘛𝘢𝘺𝘺𝘢𝘣𝘢 𝘙𝘢𝘮𝘻𝘢𝘯</h1>
 <h3 align="center">𝘈 𝘋𝘦𝘥𝘪𝘤𝘢𝘵𝘦𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘗𝘪𝘰𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘈𝘐 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴!</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+  <img 
+    alt="A screenshot of coding" 
+    width="400" 
+    height="auto" 
+    src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=Profile%20views&color=0e75b6&style=" alt="tayyaba-ramzan" /> </p>
 
