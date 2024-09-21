@@ -4,7 +4,7 @@
 <h3 align="center">𝘈 𝘋𝘦𝘥𝘪𝘤𝘢𝘵𝘦𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘗𝘪𝘰𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘈𝘐 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴!</h3>
 
 <div align="center">
-  <img alt="coding" width="400" 
+  <img alt="coding" width="600" 
     src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311" 
   />
 </div>
