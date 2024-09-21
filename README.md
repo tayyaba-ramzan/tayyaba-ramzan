@@ -5,8 +5,7 @@
 
 <div align="center">
   <img alt="coding" width="400" 
-    src="![image](https://github.com/user-attachments/assets/965f01ab-4308-4e0f-9642-9e9bc092ded2)
-" 
+    src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311" 
   />
 </div>
 
