@@ -3,9 +3,10 @@
 <h1 align="center">𝘏𝘪 👋, 𝘐'𝘮 𝘛𝘢𝘺𝘺𝘢𝘣𝘢 𝘙𝘢𝘮𝘻𝘢𝘯</h1>
 <h3 align="center">𝘈 𝘋𝘦𝘥𝘪𝘤𝘢𝘵𝘦𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘗𝘪𝘰𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘈𝘐 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴!</h3>
 
-<div align="right">
+<div align="center">
   <img alt="coding" width="400" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwnch_bytTsbJ_NCen-RNQSvLn9xC6Z0pRg&s" 
+    src="![image](https://github.com/user-attachments/assets/965f01ab-4308-4e0f-9642-9e9bc092ded2)
+" 
   />
 </div>
 
