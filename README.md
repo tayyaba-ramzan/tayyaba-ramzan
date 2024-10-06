@@ -3,12 +3,18 @@
 <h1 align="center">𝘏𝘪 👋, 𝘐'𝘮 𝘛𝘢𝘺𝘺𝘢𝘣𝘢 𝘙𝘢𝘮𝘻𝘢𝘯</h1>
 <h3 align="center">𝘈 𝘋𝘦𝘥𝘪𝘤𝘢𝘵𝘦𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘗𝘪𝘰𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘈𝘐 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴!</h3>
 
-  <img align="right" alt="coding" width="500" height="500"
+  <img align="center" alt="coding" width="500" height="500"
     src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311" 
   />
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=Profile%20views&color=0e75b6&style=" alt="tayyaba-ramzan" /> </p>
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/tayyabaRamzan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a> 
+</p>
 
 - 👉  𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 **𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵, 𝘞𝘦𝘣𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘕𝘦𝘹𝘵.𝘑𝘴 & 𝘛𝘢𝘪𝘭𝘸𝘪𝘯𝘥 𝘊𝘚𝘚.**
   
@@ -17,12 +23,6 @@
 - 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 **tayyabaramzan.it@gmail.com**
 
 - ⚡ 𝘍𝘶𝘯 𝘧𝘢𝘤𝘵: **𝘔𝘺 𝘤𝘰𝘥𝘪𝘯𝘨 𝘴𝘵𝘺𝘭𝘦 𝘩𝘢𝘴 𝘢 𝘣𝘪𝘵 𝘰𝘧 𝘧𝘶𝘯 𝘪𝘯 𝘪𝘵, 𝘣𝘶𝘵 𝘵𝘩𝘦 𝘰𝘶𝘵𝘱𝘶𝘵 𝘪𝘴 𝘢𝘭𝘸𝘢𝘺𝘴 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭.**
-- 
-- <p align="left"> 
-  <a href="https://www.linkedin.com/in/tayyabaRamzan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
-  </a> 
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
