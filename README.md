@@ -2,10 +2,11 @@
 
 <h1 align="center">𝘏𝘪 👋, 𝘐'𝘮 𝘛𝘢𝘺𝘺𝘢𝘣𝘢 𝘙𝘢𝘮𝘻𝘢𝘯</h1>
 <h3 align="center">𝘈 𝘋𝘦𝘥𝘪𝘤𝘢𝘵𝘦𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘗𝘪𝘰𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘈𝘐 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴!</h3>
-
-  <img align="right"alt="coding" width="400" 
+<div>
+  <img alt="coding" width="400" 
     src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311" 
   />
+  </div>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=Profile%20views&color=0e75b6&style=" alt="tayyaba-ramzan" /> </p>
 
